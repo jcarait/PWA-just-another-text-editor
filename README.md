@@ -34,7 +34,7 @@ https://peaceful-eyrie-59582.herokuapp.com/
 
 ## Demo
 
-![Video demo of text editor within browser](/PWA-Just-Another-Text-Editor.gif)
+![Video demo of text editor within browser](/PWA-JATE.gif)
 
 ## License
 
